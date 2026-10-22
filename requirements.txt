@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+qdrant-client
+sentence-transformers
+ollama
+pymupdf
+python-docx
+beautifulsoup4
+python-dotenv
+ragas
+datasets
+pytest
